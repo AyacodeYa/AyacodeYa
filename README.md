@@ -2,10 +2,6 @@
 
 ### A current master's student
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyacodeYa&label=Profile views&color=0e75b6&style=flat" alt="AyacodeYa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyacodeYa" alt="AyacodeYa" /></a> </p>
-
 - 🔭 I'm currently working on **a AI agent project with coze.**
 
 - 🌱 I'm currently learning **Reinforcement Learning**
