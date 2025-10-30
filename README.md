@@ -1,37 +1,40 @@
-He is a current graduate student at Qilu University of Technology and currently works as an AI Algorithm Intern at Shandong Artificial Intelligence Research Institute.
+# Hi 👋, I'm Tao Wang
 
-#### Contact
+### A current master's student
 
-Email: Ayacode_sudo@163.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyacodeYa&label=Profile views&color=0e75b6&style=flat" alt="AyacodeYa" /> </p>
 
-#### Education
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AyacodeYa" alt="AyacodeYa" /></a> </p>
 
-M.E., School of Mathematics and Artificial Intelligence, Qilu University of Technology, 2023—2026.\
+- 🔭 I'm currently working on **a AI agent project with coze.**
 
-B.E., School of Information Science and Technology, Shandong Agricultural and Engineering University, 2019—2023.
+- 🌱 I'm currently learning **Reinforcement Learning**
 
-#### Research Interests
+- 👯 I'm looking to collaborate on **AI algorithm project**
 
-Computer Vision,Reinforcement Learning, Artificial Intelligence.
+- 🤝 I'm looking for help with **learning speaking English and studying AI agent application.**
 
-#### Submitted
+- 💬 Ask me about **Artifical Intelligence**
 
-- **Tao Wang**, Chong Di, Jinchao Huang, Chao Chen, Pengyao Xu, Bin Yang. Deep Reinforcement Learning with Positional Embedding for Influence
-  Maximization. **2025 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2025)**. 
+- 📫 How to reach me **Ayacode_sudo@163.com**
 
-#### Published
+- ⚡ Fun fact **Imitate practice, reflect on repetition, avoid rote memorization, and improve efficiency.**
 
-- Zhihong Wang, **Tao Wang**, Fang Jia, Hang Ren. Improved Wheat Spike Recognition Method Based on YOLOv5 with Added Channel Attention Mechanism. **The 22nd Distributed Computing and Applications in Business, Engineering, and Sciences Conference （DCABES 2023）**.
+- 👨‍💻 All of my projects are available at **[https://ayacodeya.github.io/](https://ayacodeya.github.io/)**
 
-- National Encouragement Scholarship (SDAEU),2022
-- The 8th "Internet +" Competition: School-level First Prize (SDAEU),2022
-- The 1st "Qinghui Cup" Smart Internet of Things Technology Competition: School-level Second Prize (SDAEU),2021
-- The 10th National College Students Statistical Modeling Competition: Provincial Third Prize, (SDAEU), 2023
-- The 20th "Huawei Cup" Graduate Mathematics Competition: National Second Prize (QLU),2024
-- The 21st "Huawei Cup" Graduate Mathematics Competition: National Second Prize (QLU),2024
+- 📝 I regularly write articles on **[https://space.bilibili.com/476907828?spm_id_from=333.1007.0.0](https://space.bilibili.com/476907828?spm_id_from=333.1007.0.0)**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/AyacodeYa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AyacodeYa" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/csharp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyacodeYa&show_icons=true&locale=en&layout=compact" alt="AyacodeYa" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyacodeYa&show_icons=true&locale=en" alt="AyacodeYa" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyacodeYa&" alt="AyacodeYa" /></p>
 
