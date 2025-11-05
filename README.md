@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://ayacodeya.github.io/](https://ayacodeya.github.io/)**
 
-- 📝 I regularly write articles on **[https://space.bilibili.com/476907828?spm_id_from=333.1007.0.0](https://space.bilibili.com/476907828?spm_id_from=333.1007.0.0)**
+- 📝 I regularly write articles on **https://space.bilibili.com/476907828**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
