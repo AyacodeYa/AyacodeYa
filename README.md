@@ -48,22 +48,19 @@
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=AyacodeYa&show_icons=true&locale=en&theme=default&cache_seconds=1800"
+        src="https://github-readme-stats.vercel.app/api?username=AyacodeYa&show_icons=true&locale=en"
         alt="AyacodeYa GitHub Stats"
-        loading="lazy"
-        width="400"
       />
     </td>
     <td>
       <img
-        src="https://streak-stats.demolab.com/?user=AyacodeYa&theme=default&cache_seconds=1800"
+        src="https://streak-stats.demolab.com?user=AyacodeYa"
         alt="AyacodeYa GitHub Streak"
-        loading="lazy"
-        width="400"
       />
     </td>
   </tr>
 </table>
+
 
 
 
