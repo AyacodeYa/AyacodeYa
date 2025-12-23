@@ -44,10 +44,13 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AyacodeYa&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=AyacodeYa&theme=transparent" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=AyacodeYa&show_icons=true&theme=default"
+    width="100%"
+  />
+</p>
+
 
 
 
