@@ -50,7 +50,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=AyacodeYa&show_icons=true&theme=transparent" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyacodeYa&theme=dark" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=AyacodeYa&theme=transparent&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
