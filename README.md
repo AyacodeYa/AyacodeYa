@@ -47,19 +47,14 @@
 <table>
   <tr>
     <td>
-      <img
-        src="https://github-readme-stats-one-bice.vercel.app/api?username=AyacodeYa&show_icons=true&theme=transparent"
-        alt="AyacodeYa GitHub Stats"
-      />
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=AyacodeYa&show_icons=true&theme=transparent" alt="AyacodeYa GitHub Stats" />
     </td>
     <td>
-      <img
-        src="https://streak-stats.demolab.com/?user=AyacodeYa&theme=transparent"
-        alt="AyacodeYa GitHub Streak"
-      />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=AyacodeYa&theme=github-dark" alt="AyacodeYa GitHub Streak" />
     </td>
   </tr>
 </table>
+
 
 
 
