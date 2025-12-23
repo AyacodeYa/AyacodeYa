@@ -44,16 +44,11 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AyacodeYa&show_icons=true&theme=transparent" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://streak-stats.demolab.com?user=AyacodeYa&theme=transparent&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyacodeYa&show_icons=true&theme=transparent" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=AyacodeYa&theme=transparent" alt="GitHub Streak" />
+</div>
+
 
 
 
