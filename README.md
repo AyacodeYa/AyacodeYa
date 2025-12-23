@@ -49,11 +49,9 @@
     <td>
       <img src="https://github-readme-stats-one-bice.vercel.app/api?username=AyacodeYa&show_icons=true&theme=transparent" alt="AyacodeYa GitHub Stats" />
     </td>
-    <td>
-      <img src="https://github-readme-streak-stats.vercel.app?user=AyacodeYa&theme=github-dark&hide_border=true" alt="AyacodeYa GitHub Streak" />
-    </td>
   </tr>
 </table>
+>
 
 
 
