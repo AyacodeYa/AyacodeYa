@@ -44,14 +44,23 @@
   </a>
 </p>
 
-<table>
+<table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=AyacodeYa&show_icons=true&theme=transparent" alt="AyacodeYa GitHub Stats" />
+      <img
+        src="https://github-readme-stats-one-bice.vercel.app/api?username=AyacodeYa&show_icons=true&theme=default"
+        height="170"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com?user=AyacodeYa&theme=default"
+        height="170"
+      />
     </td>
   </tr>
 </table>
->
+
 
 
 
