@@ -44,10 +44,10 @@
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img
     src="https://github-readme-stats-one-bice.vercel.app/api?username=AyacodeYa&show_icons=true&theme=default"
-    width="100%"
+    width="70%"
   />
 </p>
 
